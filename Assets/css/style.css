@@ -136,7 +136,7 @@ p {
   color: #ffffff;
 }
 
-/* Max-height attribute set these 3 images */
+/* Max-height attribute of 200 pixels set these 3 images */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -144,6 +144,8 @@ p {
 }
 
 /* Attributes for these 3 h2 headers */
+/* Sets bottom margin to 20 pixels */
+/* Sets font size to 36 pixels */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
