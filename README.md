@@ -21,11 +21,12 @@ This basic template was built from an html file and an external css file.
 
 Here are screenshots of the finished product as well as a link to the website.
 
-![](Assets/images/Screenshot1.png)
 
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-`md ![alt text](assets/images/screenshot.png) `
+![](Assets/images/Screenshot1.png)
+![](Assets/images/Screenshot2.png)
+![](Assets/images/Screenshot3.png)
+
+Link: https://dkallen117.github.io/code-Refractor/
 
 ## Credits
 
