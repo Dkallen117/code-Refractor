@@ -5,13 +5,8 @@
 For this assignment, I was tasked with cleaning up a code-base for a mock company website. This mock assignemnt
 will prepare me for future job requests from my employer or clients. I found this assignment to be a good
 first hand experience at cleaning up and organzing an existing code base. I was able to consolidate several
-css declarations into one since they all shared the same attributes. This created a cleaner, more semantic
-code base for future developers to use.
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+css declarations into one since they all shared the same attributes and changed several HTML elements to make
+the file more semantic. This created a cleaner, more semantic code base for future developers to use.
 
 ## Installation
 
