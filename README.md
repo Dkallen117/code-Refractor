@@ -23,10 +23,6 @@ Here are screenshots of the finished product as well as a link to the website.
 
 Link: https://dkallen117.github.io/code-Refractor/
 
-## Credits
-
-No credits for this project/assignment.
-
 ## License
 
 GNU GENERAL PUBLIC LICENSE
